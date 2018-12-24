@@ -23,3 +23,17 @@ D:\VBProj61BIS3Q\VBProj61BIS3Q1\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLa
 D:\VBProj61BIS3Q\VBProj61BIS3Q1\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap2.resources
 D:\VBProj61BIS3Q\VBProj61BIS3Q1\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap3.resources
 D:\VBProj61BIS3Q\VBProj61BIS3Q1\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap4.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q1.exe
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q1.xml
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q1.pdb
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap1.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap2.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap3.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmLap4.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.frmPractice4.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.Resources.resources
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q1.vbproj.GenerateResource.Cache
+D:\VBProj61Room3Q\VBProj61BIS3Q1\bin\Debug\VBProj61BIS3Q1.exe
+D:\VBProj61Room3Q\VBProj61BIS3Q1\bin\Debug\VBProj61BIS3Q1.pdb
+D:\VBProj61Room3Q\VBProj61BIS3Q1\bin\Debug\VBProj61BIS3Q1.xml
+D:\VBProj61Room3Q\VBProj61BIS3Q1\obj\x86\Debug\VBProj61BIS3Q.felLap5.resources
