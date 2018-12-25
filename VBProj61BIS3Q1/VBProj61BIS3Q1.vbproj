@@ -72,10 +72,16 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="felLap5.Designer.vb">
-      <DependentUpon>felLap5.vb</DependentUpon>
+    <Compile Include="frmJob6.Designer.vb">
+      <DependentUpon>frmJob6.vb</DependentUpon>
     </Compile>
-    <Compile Include="felLap5.vb">
+    <Compile Include="frmJob6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLap5.Designer.vb">
+      <DependentUpon>frmLap5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLap5.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmLap1.vb">
@@ -127,8 +133,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="felLap5.resx">
-      <DependentUpon>felLap5.vb</DependentUpon>
+    <EmbeddedResource Include="frmJob6.resx">
+      <DependentUpon>frmJob6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLap5.resx">
+      <DependentUpon>frmLap5.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLap1.resx">
       <DependentUpon>frmLap1.vb</DependentUpon>

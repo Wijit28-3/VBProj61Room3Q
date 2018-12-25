@@ -1,4 +1,4 @@
-﻿Public Class felLap5
+﻿Public Class frmLap5
 
 
     Private Sub txtUnit_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtUnit.TextChanged
